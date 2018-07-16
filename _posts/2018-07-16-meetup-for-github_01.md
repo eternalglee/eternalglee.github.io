@@ -57,7 +57,7 @@ image: /files/covers/github-meetup-01.jpg
   ![예민한 사람의 평소 글쓰기 환경](/files/write-in-pages.png)
   pages어플에서 내 맘에 드는 폰트로 작성해야 기분이 좋거든요.
   
-  그리고 ++[하루패드](http://pad.haroopress.com/page.html)++를 사용해서 마크다운문법과 친해지려고 무진장 애쓰고 있다.
+  그리고 ++ [하루패드](http://pad.haroopress.com/page.html)++를 사용해서 마크다운문법과 친해지려고 무진장 애쓰고 있다.
   
   5. 웹폰트 적용
   카카오 기술블로그에 웹폰트가 이미 적용되어있어서 내가 적용해보고싶었던 폰트로 적용
