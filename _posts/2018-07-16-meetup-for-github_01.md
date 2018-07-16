@@ -57,15 +57,16 @@ image: /files/covers/github-meetup-01.jpg
   ![예민한 사람의 평소 글쓰기 환경](/files/write-in-pages.png)
   pages어플에서 내 맘에 드는 폰트로 작성해야 기분이 좋거든요.
   
-  그리고 ++ [하루패드](http://pad.haroopress.com/page.html)++를 사용해서 마크다운문법과 친해지려고 무진장 애쓰고 있다.
+  그리고 **[하루패드](http://pad.haroopress.com/page.html)**를 사용해서 마크다운문법과 친해지려고 무진장 애쓰고 있다.
   
   5. 웹폰트 적용
   카카오 기술블로그에 웹폰트가 이미 적용되어있어서 내가 적용해보고싶었던 폰트로 적용
-  assets > fonts 폴더 안에 폴더들을 지우고 내가 쓰고 싶어했던 ++[이롭게](http://font.iropke.com/batang/)++ 폰트를 적용했다.
+  assets > fonts 폴더 안에 폴더들을 지우고 내가 쓰고 싶어했던 **[이롭게](http://font.iropke.com/batang/)** 폰트를 적용했다.
   고딕체보다 요즘은 명조체가 말하는 느낌이 전달되서 더 좋다. 
   
   
  - **외울 때까지 무한 반복**
+  ![터미널이랑 칭구칭긔](/files/my-terminal.gif)  
   맥북을 3~4년 가까이 사용해오면서 터미널을 사용해본 적이 없다.
   일단 화면 너무 무섭지않나? 어렸을 때 컴퓨터 고장나면 뜨던 화면들이랑 너무 닮았다.
   근데 깃헙을 하면서 터미널 사용을 피할 수 없었다.
