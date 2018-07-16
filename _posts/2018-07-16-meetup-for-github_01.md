@@ -29,7 +29,7 @@ image: /files/covers/github-meetup-01.jpg
   로컬로 다운받아 실제 사이트와 비교해가면서 어떻게 파일이 구성되어있고 폴더는 어떻게 나눠져있는지 확인했다. 그리고 README파일을 정독. 깃헙블로그 이후 글이나 작성자 등록을 어떻게하는지 상세하게 나와있다.
   
   1. _config.yml 파일 수정.
-   <img src="files/config-edit.png">
+   ![가장 기초가 되는 config파일 수정하기](/files/config-edit.png)
    블로그 정보를 내 정보로 교체했다.
    타이틀이나 깃헙정보등을 수정했고, 나머지 모르는 부분들은 그냥 패스.
    config파일은 수정사항이 간단해서 그냥 깃헙 사이트에서 수정하는게 편하다.
