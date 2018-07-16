@@ -11,7 +11,7 @@ image: /files/covers/github-meetup-01.jpg
 - - -
 2018.07.04. wed / with im퍼블리셔님, yung개발자님, Dong개발자님
 
-드디어 첫 Github Meetup!
+드디어 첫 Github Meetup!  
 디자이너, 개발자, 퍼블리셔. 다양한 시각으로 각자 느낀점을 가볍게 애기해보기로 했다.
 글을 작성하다가 날아가서(멘탈 털림) 다른 분들의 황금같은 의견이 기억이 안난다. ㅠㅠ
 그래서 내가 애기했던 내용 위주로 정리해본다.
