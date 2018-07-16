@@ -7,9 +7,9 @@ tags: [github]
 image: /files/covers/github-meetup-01.jpg
 ---
 
-#### Meetup for github (1/n)
+Meetup Date : 2017년 7월 4일 수요일
+Co-worker   : im퍼블리셔님, yung개발자님, Dong개발자님
 - - -
-2018.07.04. wed / with im퍼블리셔님, yung개발자님, Dong개발자님
 
 드디어 첫 Github Meetup!  
 디자이너, 개발자, 퍼블리셔. 다양한 시각으로 각자 느낀점을 가볍게 애기해보기로 했다.
