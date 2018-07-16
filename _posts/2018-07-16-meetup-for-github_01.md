@@ -54,8 +54,7 @@ image: /files/covers/github-meetup-01.jpg
   아직 마크다운 형식으로 적는게 어색하지만 가볍게 틈틈히 적기엔 또 괜찮네.
   원래 글쓸 때 환경에 예민한 편인데, 나름 잘 적응하고 있는 듯하다.
   
-  <img src="files/write-in-pages.png">
-  예민한 사람의 평소 글쓰기 환경.
+  ![예민한 사람의 평소 글쓰기 환경](/files/write-in-pages.png)
   pages어플에서 내 맘에 드는 폰트로 작성해야 기분이 좋거든요.
   
   그리고 ++[하루패드](http://pad.haroopress.com/page.html)++를 사용해서 마크다운문법과 친해지려고 무진장 애쓰고 있다.
