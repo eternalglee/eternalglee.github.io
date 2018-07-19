@@ -5,12 +5,7 @@ image: /files/covers/portfolio.png
 permalink: /portfolio/
 sitemap: yes
 excerpt: 포트폴리오를 업로드 해봅시다.
-tags: [opensource,s2graph,mrte,hbase-tools,hbase-region-inspector,adt,daum-editor]
+tags: [portfolio]
 ---
-<a id="forkme" href="https://github.com/kakao"></a>
 
-## Cite
-
-* Continuous Deployment using Kubernetes and GitHub
-* [https://github.com/kakao/cite](https://github.com/kakao/cite)
-* [GitHub API], [Kubernetes], [Docker] 외
+* 포트폴리오용으로 사용할 갤러리나 좋은 템플릿 찾는중
