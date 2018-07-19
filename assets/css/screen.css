@@ -518,7 +518,7 @@ for small screen(<720px):
     display: none;
 }
 
-#kakao-link-btn {
+/* #kakao-link-btn {
     background: url(../images/pc/share_talk.png) no-repeat;
     background-size: 20px 20px;
 }
@@ -536,13 +536,13 @@ for small screen(<720px):
 #share-google {
     background: url(../images/pc/share_goo.png) no-repeat;
     background-size: 20px 20px;
-}
+} */
 
 #header,
 #cover,
 #navbar,
 #footer {
-    font-family: 'Kakao', sans-serif !important;
+    font-family: 'Iropke Batang', serif !important;
 }
 
 /* list(loop) */
@@ -1700,7 +1700,7 @@ body.page-template {
         background-image: url(../images/mo/icon_git@3x.png);
     }
 
-    #link-facebook {
+/*    #link-facebook {
         background-image: url(../images/mo/icon_face@3x.png);
     }
 
@@ -1736,7 +1736,7 @@ body.page-template {
 
     #share-google {
         background-image: url(../images/mo/share_goo@3x.png);
-    }
+    } */
 
     #post-list .author-image {
         background-image: url(../images/mo/default_pic_s@3x.png);
