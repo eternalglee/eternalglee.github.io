@@ -7,7 +7,7 @@ tags: [github]
 image: /files/covers/github-meetup-01.jpg
 ---
 
-Meetup Date : 2017년 7월 4일 수요일  
+Date : 2017년 7월 4일 수요일  
 Co-worker   : yoon퍼블리셔님, im개발자님, seo개발자님  
 - - -
 
