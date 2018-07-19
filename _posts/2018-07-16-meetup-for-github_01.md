@@ -3,7 +3,7 @@ layout: post
 title: 'Github Meetup. (1/n)'
 author: Glee
 date: 2018-07-16 12:00
-tags: [github]
+tags: [github,Meetup]
 image: /files/covers/github-meetup-01.jpg
 ---
 
