@@ -22,7 +22,7 @@ image: /files/covers/github-meetup-01.jpg
 
 ### [ 디자이너의 눈물나는 깃헙 도전기 ]    
 
-- **기본적으로 '겁'이 기본값인 사람  **
+- **기본적으로 '겁'이 기본값인 사람**  
 
   내가 먼저 접했는데 제일 진도가 느리고 제일 헤맸다. 비전공자니까 당연해, 괜찮아.  
   어떤 우여곡절을 겪었는지는 **[지난번 글](https://eternalglee.github.io/2018/07/10/start_github/)**에서 언급했으니 넘어가자.  
@@ -38,20 +38,23 @@ image: /files/covers/github-meetup-01.jpg
       뭐가 뭔지 잘 모르겠다면, 잘 만들어진 깃헙블로그 페이지를 통째로 Fork해 비교해보길 바란다  그리고 카카오기술블로그의 **[README 파일](https://github.com/kakao/kakao.github.io/blob/master/README.md)**을 정독했다. 글이나 작성자 등록을 어떻게하는지 상세하게 나와있다.  
 
 
+
   ![가장 기초가 되는 config파일 수정하기](/files/config-edit.png)  
 
-  1. **_config.yml 파일 수정.  **
+  1. **_config.yml 파일 수정.**
 
-      블로그 정보를 내 정보로 교체해준다.타이틀이나 깃헙 정보등을 수정했고, 나머지 모르는 부분들은 그냥 패스.  
+      블로그 정보를 내 정보로 교체해준다.
+
+      타이틀이나 깃헙 정보등을 수정했고, 나머지 모르는 부분들은 그냥 패스. 
 
       config파일은 수정사항이 간단해서 그냥 깃헙 사이트에서 수정하는게 편하다.  
 
   2. **글 작성자 정보 등록  **
-    authors폴더에 내 이름으로 된 md파일을 생성해준다. 아래와 같이 정보를 입력해준다.  
-    *name: Glee  
-    title: 김지선  
-    image: /files/authors/Glee.jpg
-    이미지는 해당 폴더로 이동해서 내가 사용하고자하는 이미지로 바꿔줬다.  
+authors폴더에 내 이름으로 된 md파일을 생성해준다. 아래와 같이 정보를 입력해준다.  
+*name: Glee  
+title: 김지선  
+image: /files/authors/Glee.jpg
+이미지는 해당 폴더로 이동해서 내가 사용하고자하는 이미지로 바꿔줬다.  
 
   3. 기타 이미지 변경  
     assets > images 안에 블로그를 이루고있는 이미지 요소들이 모여있다.  
