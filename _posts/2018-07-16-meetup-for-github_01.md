@@ -7,7 +7,7 @@ tags: [github,Meetup]
 image: /files/covers/github-meetup-01.jpg
 ---
 
-*Date : 2017년 7월 4일 수요일*  
+Date : 2017년 7월 4일 수요일
 Co-worker   : yoon퍼블리셔님, im개발자님, seo개발자님  
 
 
@@ -18,13 +18,12 @@ Co-worker   : yoon퍼블리셔님, im개발자님, seo개발자님
 
 - - -
 
-### [ 디자이너의 눈물나는 Github Pages 도전기 ]
+### [ 디자이너의 눈물나는 Github Pages 도전기 &#128561; ]
 
-- **기본적으로 '겁'이 기본값인 사람**
-
+- **기본적으로 '겁'이 기본값인 사람  **
   내가 먼저 접했는데 제일 진도가 느리고 제일 헤맸다. 비전공자니까 당연해, 괜찮아.
 
-  어떤 우여곡절을 겪었는지는 **[지난번 글](https://eternalglee.github.io/2018/07/10/start_github/)**에서 언급했으니 넘어가자.  
+  어떤 우여곡절을 겪었는지는 **[지난번 글](https://eternalglee.github.io/2018/07/10/start_github/)**에서 언급했으니 넘어가자.
 
   내가 2주걸려도 해결 못한 문제를 개발자님이 2시간만에 파악하고 방법 알랴줌.  찬양하라 갓개발자여.  
 
@@ -43,10 +42,10 @@ Co-worker   : yoon퍼블리셔님, im개발자님, seo개발자님
   뭐가 뭔지 잘 모르겠다면, 잘 만들어진 깃헙블로그 페이지를 통째로 Fork해 비교해보길 바란다.
 
   그리고 카카오기술블로그의 **[README 파일](https://github.com/kakao/kakao.github.io/blob/master/README.md)**을 정독했다. 글, 작성자 등록을 어떻게하는지 상세하게 나와있다.  
-  
+
 
   ![기초가 되는 config파일 수정하기](/files/config-edit.png)
-  
+
 
   1. _config.yml 파일 수정.**  
 
@@ -105,10 +104,9 @@ Co-worker   : yoon퍼블리셔님, im개발자님, seo개발자님
      고딕체보다 요즘은 명조체가 말하는 느낌이 전달되서 더 좋다.  
 
      
-        
+     
 
    ![터미널이랑 칭구칭긔](/files/my-terminal.gif)
-  
 
 - **외울때까지 무한 반복**
 
