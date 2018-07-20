@@ -43,7 +43,7 @@ Date : 2017년 7월 4일 수요일<br />Co-worker : yoon퍼블리셔님, im개�
 
   4. **글 작성**<br />글 작성은 _posts 폴더 안에 있는 글 들중 하나를 복사해서 수정해서 적용했다.<br />작성자 정보도 내 정보로 교체하니 사이트에서 내 프로필 이미지가 뜨는게 신기했다.<br />아직 마크다운 형식으로 적는게 어색하지만 가볍게 틈틈히 적기엔 또 괜찮네.<br />원래 글쓸 때 환경에 예민한 편인데, 나름 잘 적응하고 있는 듯하다.  
 
-       ![예민한 사람의 평소 글쓰기 환경](/files/write-in-pages.png){width=40%}
+       ![예민한 사람의 평소 글쓰기 환경](/files/write-in-pages.png){width="40%"}
        pages어플에서 내 맘에 드는 폰트로 작성해야 기분이 좋거든요.  
        그리고 ~~**[하루패드 ](http://pad.haroopress.com/page.html)**~~ **[Typora](https://www.typora.io/)**를 사용해서 마크다운문법과 친해지려고 무진장 애쓰고 있다. 
 
@@ -52,7 +52,7 @@ Date : 2017년 7월 4일 수요일<br />Co-worker : yoon퍼블리셔님, im개�
 
 
 
-   ![터미널이랑 칭구칭긔](/files/my-terminal.gif){width=80%}
+   ![터미널이랑 칭구칭긔](/files/my-terminal.gif){width="80%"}
 
 - **외울때까지 무한 반복**
 
