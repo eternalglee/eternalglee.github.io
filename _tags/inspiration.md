@@ -1,0 +1,4 @@
+---
+name: inspiration
+title: 'inspiration'
+---
