@@ -4,7 +4,7 @@ description:
   그런 사악함 앞에서 중립은 공모와 다름 없어요.
 baseurl: ''
 url: 'https://eternalglee.github.io/'
-timezone: Asia/Seoul 
+timezone: Asia/Seoul
 
 repository: eternalglee/eternalglee.github.io
 
@@ -46,6 +46,9 @@ defaults:
 
 exclude: [README.md, Gemfile, Gemfile.lock]
 
+disqus_url: <https://eternalglee.github.io/>
+disqus_id: <room-401>
+
 keep_files: [assets, files]
 github: [metadata]
 # iolo's custom
@@ -56,3 +59,5 @@ asset_url: /assets
 #asset_url: //t1.daumcdn.net/osa/blog/assets
 github_url:
   username: eternalglee
+
+
