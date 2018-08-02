@@ -17,13 +17,13 @@ image: /files/covers/inspiration.png
 
 
 
-![생각보다 평가에 후하다! 착하신분들,맛난거 사드리고싶다.](https://blogfiles.pstatic.net/MjAxODA4MDJfMTQx/MDAxNTMzMTg0OTAyODgy.1nMikO1CDIHifhFx4J3lBCcRoTP9tnXBmQSuFxubMc4g.p-5MN3SLr2eb-TfVCCRaawEDdJPcC7btE0Td0Kvsqucg.PNG.eternalglee/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2018-08-02_%EC%98%A4%ED%9B%84_1.41.22.png)
+![생각보다 평가에 후하다! 착하신분들,맛난거 사드리고싶다.](https://i.imgur.com/m49457w.png)
 
 Behance에 포트폴리오 올리기는 '다이어트'와 함께 오래된 나의 소망이었다.<br />그러나 왠지 장벽이 높아! 메인에 있는 작품들만봐도 겁나 고퀄리티. 사용툴에 After Effect까지 썼다고? 세상에.<br />언젠가는 올릴 타이밍이 오겠지 했는데 2018년 7월에 찾아오셨다. '한가함'이란 것이.<br />최근 작업보다 작업 과정과 결과물이 단순한 예전 포트폴리오부터 순차적으로 쌓아보기로했다.
 
 
 
-![wix를 통해 구축한 예전 포폴사이트, 심플한 갤러리형태](https://blogfiles.pstatic.net/MjAxODA4MDJfMjgz/MDAxNTMzMTg1NTg4MjQ5.prVSOAs70teSKmd_buUTzmB_oidywcc0Kr1nU4slrb0g.N5pAOOSeVqIUini4Z0s7HbSfmG8yTQg4lOEA_uACCHAg.PNG.eternalglee/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2018-08-02_%EC%98%A4%ED%9B%84_1.52.41.png)
+![wix를 통해 구축한 예전 포폴사이트, 심플한 갤러리형태](https://i.imgur.com/JXtOj7K.png)
 
 실은 예전에 [wix](http://ko.wix.com/)로 포트폴리오 사이트를 구축했었다. 그 때 한번 정리한 내용들을 먼저 그대로 올려보기로했다.<br />구 포트폴리오 사이트 작업할 때, 어느정도 가이드라인이 잡혀서 Behance에서도 주저없이 업로드가 가능했다.<br />또 Behance 에디터가 매우 직관적으로 구성되어있어 빠르게 적응할 수 있었다. 아래와 같이 포폴페이지를 구성했다.
 
@@ -55,13 +55,13 @@ Behance에 포트폴리오 올리기는 '다이어트'와 함께 오래된 나�
 
 (참고 : [https://brunch.co.kr/@yj5wqu/4](https://brunch.co.kr/@yj5wqu/4))
 
-![어느덧 3년차 슬랙유저인데, 이제서야 써본 슬랙봇](https://blogfiles.pstatic.net/MjAxODA4MDJfMjQz/MDAxNTMzMTg4NTE0NDIz.-uyBFIJg7bSHkBnF8-dIB9G2w8qBsbkCvkEVv7quR0Eg.dfrmSSDkmlTGBpBwyXxlw1xyf3LjHHvM-mk36WFdYvQg.PNG.eternalglee/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7-2018-08-02-%EC%98%A4%EC%A0%84-10.58.44-2.png)
+![어느덧 3년차 슬랙유저인데, 이제서야 써본 슬랙봇](https://i.imgur.com/APjRNnh.png)
 
 이제는 너무 유명한 협업툴인 Slack.<br />2015년에 일했던 스타트업 회사에서 사용했던 경험을 바탕으로 현재 우리 회사에서도 공식 메신저로 사용중이다.<br />Slack 사용 제안 시, 팀원분들이 잘 적응 못하시면 어떡하지 생각했는데 다들 잘 사용하시는중!<br />
 
 무튼 최근에서야 저 브런치 글을 보고 슬랙봇을 사용해보게 되었다.<br />자주 까먹거나 자주 물어보시는 사무실 관련 정보를 테스트로 등록해보았다.<br />느낌이 어땠냐고..? 왜 내가 이걸 이제야 썼지? 개 편하다.<br />
 
-![왜 이제서야 쓴거야, 도대체 왜!!](https://blogfiles.pstatic.net/MjAxODA4MDJfMTA2/MDAxNTMzMTg4NDEzMTkw.ttCBH13AnYHNKiN4-vo-XcOKoQPR8LIPuhzLD0i-7sgg.B8IyITTQhy1kpdV5ZY0_KUP2Y70YPpgCsnxPDmxa1_sg.PNG.eternalglee/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7-2018-08-02-%EC%98%A4%EC%A0%84-10.50.25.png)
+![왜 이제서야 쓴거야, 도대체 왜!!](https://i.imgur.com/8VGwXlX.png)
 
 슬랙봇 매우 칭찬해! 근데 답변이 두줄이 넘어가면 안되는것같다...혹은 엔터치면 안되는듯.<br />그래도 괜찮아! 답변하는 슬랙봇말고, 캘린더 연동도 해봐야겠다.<br />팀원분들이 휴무일 등록하면 슬랙에 해당날짜에 휴무가 등록됬다고 알람이 오도록! 그건 마저 공부해봐야지
 
@@ -99,7 +99,7 @@ Behance에 포트폴리오 올리기는 '다이어트'와 함께 오래된 나�
 
 #### 04. 공감했던 띵언
 
-![와 내 말이...!](https://blogfiles.pstatic.net/MjAxODA4MDJfMTc3/MDAxNTMzMTg0ODIwMzcy.e1VaYY3pHE8eZ9lAf54cUhoQ87l_K3H7V9uS0tx3TxIg.mufAoc-8ZZJTCecwfd73Wgm-5ZF9EsnZSk_4K9H76HIg.PNG.eternalglee/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2018-08-01_%EC%98%A4%ED%9B%84_3.29.12.png)<br />
+![와 내 말이...!](https://i.imgur.com/YcdtOdM.png)<br />
 
 요즘에 진짜 무기력한 삶을 보내고 있었는데 저 문구 보고 무릎 딱-!쳤다.<br />포인트는 '없당!'이야. 해맑아야함. 헤헤.<br />날씨가 더워서 그런것일꺼야 헤헤.<br />요즘은 책 읽고 싶단 생각도 안들고, 말을 하고 싶은 마음도 사라지고.(이건 거의 내 default값인듯)<br />깃헙블로그 글도 너무 오랫만에 써서 처음 만들 때 그 의욕들은 어디갔나 싶고.<br />무엇보다 이런 주절주절 생각이 매우 많아졌다는것이다. 머리가 터질듯함.<br />그래도 저 '없당!'체로 최대한 해맑게 2018년 여름이랑 잘 지내볼 계획이다. 화이팅
 

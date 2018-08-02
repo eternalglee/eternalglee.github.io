@@ -31,7 +31,7 @@ image: /files/covers/inspiration.png
 
 ![Dropbox Paper](https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/90/44/6c/90446cbf-346b-273d-4aec-ddb700e4f8b4/mzl.bsngnpcy.png/230x0w.jpg){.alignleft}
 
-#### 
+
 
 드롭박스에서 신기한 서비스가 나왔다. 이름에 충실한 문서작성 도구다.<br />기본적인 문서작성 기능에 프로젝트를 함께 진행하는 사람들과 협업할 수 있는 기능이 추가되어있다.<br />PC와 모바일앱이 동기화되고 깔끔한 디자인이 돋보인다. <br />그러나 맥 기본 프로그램인 Pages를 icloud 동기화해서 잘 사용중이라서 그렇게 크게 매력적으로 느껴지진 않았다.<br />또, 드롭박스는 이미지(덕질, 디자인참고자료 등)저장 용도로, 구글드라이브를 업무용으로 쓰고 있기 때문에 드롭박스에서 일 관련 문서를 둔다는것 자체가 너무 어색하다. 허허&#128546;<br />
 
