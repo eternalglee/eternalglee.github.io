@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '7월 4째주 inspiration'
+title: '7월 4째주inspiration'
 author: Glee
 date: 2018-07-23 18:00
 tags: [weekly,inspiration,desgin]
