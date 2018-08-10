@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Room.401</title>
+    <description>그런 사악함 앞에서 중립은 공모와 다름 없어요.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/rss" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 09 Aug 2018 17:40:44 +0900</pubDate>
+    <lastBuildDate>Thu, 09 Aug 2018 17:40:44 +0900</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Spotify를 사용해보았다</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/files/spotify-main.png&quot; alt=&quot;Summer Hits 추천해주는거 보소!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;지난번 네이버 ‘vibe’서비스에서 살짝 언급했는데 그 후로 궁금증이 생겨 직접 사용해보았다. 실은 좋은 노동요가 필요했는데 유튜브 검색이 이제 질렸다. 그냥 클릭 몇번으로 내가 모르는 괜찮은 곡들이 재생되길 바랬다. 일단 전체적으로 매우 맘에 들었다!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;맥북에 직접 spotify 앱을 깔아 사용해보았다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;1-키보드로-컨트롤이-된다&quot;&gt;1. 키보드로 컨트롤이 된다(★★★★★)&lt;/h3&gt;
+
+&lt;p&gt;맥북 키보드에는 F7부터 F12까지 음악 컨트롤을 할 수 있는 키가 있다.&lt;br /&gt;나는 이걸 매우 유용하게 쓰는 편이다. 주로 아이튠즈에서 음악을 듣거나 팟캐스트를 듣기 때문에 작업하다가도 전화가 오거나하면 ‘재생/멈춤(F8)’키를 눌러 재생을 멈춘다. 이게 너무 습관이라 안되면 빡친다.&lt;br /&gt;‘무비스트(윈도우로치면 곰플레이어)’에서도 안되고 특히 크롬브라우져는 절대 안 먹는다. 유튜브를 사파리로 보는 이유가 사파리에서는 키가 먹기때문이다.&lt;br /&gt;근데 우리 spotify는 된다. 멈추는것도 재생하는것도, 곡을 넘기는것도 다 된다! 그리고 가장 중요한 점, 노래듣다가 전화가 오면 자동으로 멈춘다. 여기서 일단 100점 주고 가자.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/files/spotify-bts.png&quot; alt=&quot;방탄소년단이 있으니 되었다!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/files/spotify-ontour.png&quot; alt=&quot;투어 일정도 알려준다니..!&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-한국-아이돌-노래-많아야-됨&quot;&gt;2. 한국 아이돌 노래 많아야 됨(★★★★☆)&lt;/h3&gt;
+
+&lt;p&gt;일단 방탄이 있으니 별 4개 주고 시작.&lt;br /&gt;몇달전에 깨달은건데, 나는 아이돌 노래 매우 좋아함. 무대 보는 것도 좋아함. 31살에 깨달았다. &lt;br /&gt;spotify 라이브러리에서 아예 ‘K-pop’섹션이 있다. 아무래도 차트 위주로 구성되어있는 편이긴 하나, 검색하면 왠만한 한국 가수들 다 나온다. 검색할 때 영어로 적어야하는건 좀 불편하긴 하다. ‘멜로망스’ 검색하려고 네이버에서 스펠링 검색해봄.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/files/spotify-kpop.png&quot; alt=&quot;난 분명히 프랑스로 우회해서 들어갔는데 케이팝이 뜨네?&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-무료잖아&quot;&gt;3. 무료잖아?(★★★★★)&lt;/h3&gt;
+
+&lt;p&gt;아니 이게 말이 됨? &lt;strong&gt;Freemium&lt;/strong&gt; 사용 시, 중간 광고가 나오고 그 광고로 저작권료를 지불하고 있다는데, 나는 왜 광고 안나오지?  &lt;strong&gt;Premium&lt;/strong&gt;일 때 high quality 음질로 들을 수 있는데 그냥 Freemium도 전혀 문제 없다. 애시당초 요금제를 Free / premium으로 나눈게 아니라 발음이 비슷하니까 Freemium/Premium으로 나눈것도 재미지다. 한국에서는 현재 정식 서비스가 아니라서 VPN우회하여 듣는 방법을 사용하고 있다. 아래 링크 글을 참조하여 쉽게 설정했다. 모바일은 미국계정으로 들어가서 받으니까 따로 우회안해도 바로 서비스 사용이 가능해서 그냥 쓰고있다.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/files/spotify-appicon.png&quot; alt=&quot;나만 때밀이 수건 생각나?&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;4-아이콘-디자인은-왜-무슨일이야&quot;&gt;4. 아이콘 디자인은 왜, 무슨일이야(☆☆☆☆☆)&lt;/h3&gt;
+
+&lt;p&gt;아니 앱 레이아웃이나 안에 플레이리스트 커버 디자인 모두 깔끔하니 너무 예쁜데…&lt;br /&gt;앱 아이콘은 무슨일이지. 자꾸 때밀이 생각나ㅋㅋㅋㅋㅋㅋㅋㅋ이건 한국인 특정으로 웃기긴한데&lt;br /&gt;그래도 뭔가 아쉽다. 내 독스테이션에 때밀이 손수건 하나가 얹어져있단말이지.&lt;/p&gt;
+
+&lt;p&gt;​&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/files/spotify-itunes.png&quot; alt=&quot;아이튠즈의 미니플레이어, 앨범아트 예쁘면 좋은 이유&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;5-미니-플레이어-미지원&quot;&gt;5. 미니 플레이어 미지원(☆☆☆☆☆)&lt;/h3&gt;
+
+&lt;p&gt;이건 스포티파이 공식 사이트에도 사람들이 물어봤던 부분인데, 미니플레이어를 지원하지 않는다.&lt;br /&gt;예전에 사용했던 아이튠즈 사용시에 유용하게 사용했던 미니플레이어 기능이 안되서 좀 아쉽다. 미니플레이어로 뜨면 깔쌈하니 예쁠텐데, 특정 사이즈 이하로 줄여지지 않는다.ㅠㅠ&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/files/spotify-playlist.png&quot; alt=&quot;명료한 아이콘+텍스트 조합&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;물론 하루정도 사용해본 리뷰이지만, 아이폰 4s를 처음 받았을 때 ‘아 이게 진짜 내 핸드폰이구나’라고 느꼈던 감정을 spotify를 사용하며 똑같이 느꼈다. 국내에 아직 정식 서비스가 안되는 이유를 알겠다. 멜론, 벅스 지니 등 다양한 스트리밍 서비스를 사용하는 국내 사용자들이 대거 이동할 수 있기 때문이지. 뭐든 독점은 안 좋으니까, 이건 저만 쓰겠습니다 헤헷.&lt;/p&gt;
+
+&lt;p&gt;접속하는 시간대에 따라서, 좋아요 누른 음악에 따라 점점 나에게 맞춘 플레이리스트를 제공한다니 더욱 자주 사용해봐야겠다. 솔직히 멜론, 지니 등 차트 음악만 줄줄 나오는 것보다 알아서 선곡해서 틀어주는 spotify가 더 매력적이다. 나에게 스트레스없는 귀호강을 선물해줘서 고마오!&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 07 Aug 2018 18:32:00 +0900</pubDate>
+        <link>http://localhost:4000/2018/08/07/spotify/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/07/spotify/</guid>
+        
+        <category>weekly</category>
+        
+        <category>inspiration</category>
+        
+        <category>Review</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>8월 1째주 inspiration</title>
+        <description>&lt;h4 id=&quot;2018년도-어느덧-8월무섭게만-느껴졌던-behance에-포폴을-올리기-시작한-사건부터-다양한-딴짓의-향연&quot;&gt;2018년도 어느덧 8월!&lt;br /&gt;무섭게만 느껴졌던 Behance에 포폴을 올리기 시작한 사건부터 다양한 딴짓의 향연.&lt;br /&gt;&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;01-behance에-포폴올리기&quot;&gt;&lt;strong&gt;01. Behance에 포폴올리기&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/m49457w.png&quot; alt=&quot;생각보다 평가에 후하다! 착하신분들,맛난거 사드리고싶다.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Behance에 포트폴리오 올리기는 ‘다이어트’와 함께 오래된 나의 소망이었다.&lt;br /&gt;그러나 왠지 장벽이 높아! 메인에 있는 작품들만봐도 겁나 고퀄리티. 사용툴에 After Effect까지 썼다고? 세상에.&lt;br /&gt;언젠가는 올릴 타이밍이 오겠지 했는데 2018년 7월에 찾아오셨다. ‘한가함’이란 것이.&lt;br /&gt;최근 작업보다 작업 과정과 결과물이 단순한 예전 포트폴리오부터 순차적으로 쌓아보기로했다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/JXtOj7K.png&quot; alt=&quot;wix를 통해 구축한 예전 포폴사이트, 심플한 갤러리형태&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;실은 예전에 &lt;a href=&quot;http://ko.wix.com/&quot;&gt;wix&lt;/a&gt;로 포트폴리오 사이트를 구축했었다. 그 때 한번 정리한 내용들을 먼저 그대로 올려보기로했다.&lt;br /&gt;구 포트폴리오 사이트 작업할 때, 어느정도 가이드라인이 잡혀서 Behance에서도 주저없이 업로드가 가능했다.&lt;br /&gt;또 Behance 에디터가 매우 직관적으로 구성되어있어 빠르게 적응할 수 있었다. 아래와 같이 포폴페이지를 구성했다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;프로젝트 타이틀&lt;/li&gt;
+  &lt;li&gt;프로젝트 작업 기간 or 프로젝트 작업 완료일&lt;/li&gt;
+  &lt;li&gt;디자인 컨셉 설명&lt;/li&gt;
+  &lt;li&gt;디자인 디테일 이미지&lt;/li&gt;
+  &lt;li&gt;추가로 스케치, 자료로 쓰인 이미지, 버전별 이미지등을 삽입&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;외국인분들이 많으니까 파파고를 이용해서 디자인컨셉 내용을 번역해서 올리고있다.&lt;br /&gt;현재까지 2012년 작품부터 시작해서 &lt;u&gt;19개&lt;/u&gt; 프로젝트를 올렸다.&lt;br /&gt;Behance에서는 평가방법이 총 3가지가 있다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;‘좋아요’ 평가 - 포폴 하단에 있는 따봉 버튼 누르기&lt;/li&gt;
+  &lt;li&gt;‘댓글’ 남기기 - ‘좋아요’보다 좀 더 성의 있는 감동 표현 😆&lt;/li&gt;
+  &lt;li&gt;‘팔로잉’하기 - 이 디자이너의 작품을 지속적으로 보고싶을 때!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;일단 ‘&lt;u&gt;좋아요'는 7개&lt;/u&gt; 받았다. 근데 나는 이거 매우 감동쓰!&lt;br /&gt;지금 2018년도인데 올린 작업들은 다 2012~2014년도에 올린 작업들이라서 ‘좋아요’ 준것만해도 신기해.&lt;br /&gt;그리고 &lt;u&gt;댓글도 한 3~4개&lt;/u&gt; 받았다!&lt;br /&gt;심지어 이건 이렇게 수정하면 더 나을것같아 라는 정성어린 댓글도..ㅠ, 인도어빠 사랑해요 😍&lt;br /&gt;그리고 나를 &lt;u&gt;팔로우 하는 사람도 5명&lt;/u&gt;이나!!다들 복받으실꺼에요. 헤헤&lt;br /&gt;예전 작품들이라 진짜 구린데 그냥 누적하자는 마음으로 쭉 올리는중이다.&lt;br /&gt;나름 정리도 되고 이런 작업도 했었네 하는 추억에도 잠기기도 한다.&lt;br /&gt;점점 최신 작업들 올리면서 더 퀄리티 높은 포트폴리오를 구성해봐야겠다.&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;02-자주-찾는-정보는-슬랙봇으로-쓰자&quot;&gt;02. 자주 찾는 정보는 슬랙봇으로 쓰자&lt;br /&gt;&lt;/h4&gt;
+
+&lt;p&gt;(참고 : &lt;a href=&quot;https://brunch.co.kr/@yj5wqu/4&quot;&gt;https://brunch.co.kr/@yj5wqu/4&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/APjRNnh.png&quot; alt=&quot;어느덧 3년차 슬랙유저인데, 이제서야 써본 슬랙봇&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;이제는 너무 유명한 협업툴인 Slack.&lt;br /&gt;2015년에 일했던 스타트업 회사에서 사용했던 경험을 바탕으로 현재 우리 회사에서도 공식 메신저로 사용중이다.&lt;br /&gt;Slack 사용 제안 시, 팀원분들이 잘 적응 못하시면 어떡하지 생각했는데 다들 잘 사용하시는중!&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;무튼 최근에서야 저 브런치 글을 보고 슬랙봇을 사용해보게 되었다.&lt;br /&gt;자주 까먹거나 자주 물어보시는 사무실 관련 정보를 테스트로 등록해보았다.&lt;br /&gt;느낌이 어땠냐고..? 왜 내가 이걸 이제야 썼지? 개 편하다.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/8VGwXlX.png&quot; alt=&quot;왜 이제서야 쓴거야, 도대체 왜!!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;슬랙봇 매우 칭찬해! 근데 답변이 두줄이 넘어가면 안되는것같다…혹은 엔터치면 안되는듯.&lt;br /&gt;그래도 괜찮아! 답변하는 슬랙봇말고, 캘린더 연동도 해봐야겠다.&lt;br /&gt;팀원분들이 휴무일 등록하면 슬랙에 해당날짜에 휴무가 등록됬다고 알람이 오도록! 그건 마저 공부해봐야지&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;03-서울-커넥션데이-데이터-가치를-더하다-시각화-포럼-참석&quot;&gt;03. [서울 커넥션데이] 데이터, 가치를 더하다 “시각화” 포럼 참석&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.opensquared.org/upload/ckeditor/2018/06/2jGPUOpvHlgMWKHTJ2S4.jpg&quot; alt=&quot;개발자도 아닌데 제가 이런델 가도되나요..?&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;늦었다. 차가 막혔거든. 첫번째 발표는 그래서 못 들었다.&lt;br /&gt;데이터 담당자님이 여기 가신다고하길래, 오 저도 가도되요? 라고 장난쳤는데 같이 가게되었다.&lt;br /&gt;실은 오픈스퀘어D라고 했을 때 네이버에서 하는 행사인줄 알았다. 그 네이버에 D2, 그거..&lt;br /&gt;근데 정보화진흥원에서 하는거였어. 갔더니 아는분들 얼굴이 보여서 놀랬어. 헤헤&lt;br /&gt;‘데이터 시각화’라는 단어 자체가 너무 어려운데, 그래도 생각보다 이해하며 들을 수 있었다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;daisy.newjel.ly/solution&lt;/li&gt;
+  &lt;li&gt;m-robo. ‘로봇 저널리즘에 색을 입히다.’ http://m-robo.com/&lt;br /&gt;로봇저널리즘 - 컴퓨터 알고리즘으로 뉴스를 자동 생성(search &amp;gt; write &amp;gt; distribute )&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;antock.com&quot;&gt;앤톡&lt;/a&gt;&lt;br /&gt;B2B형태로 제공중. 추후에 B2C형태로 제공예정&lt;br /&gt;주식 MRI로 회사의 재무재표를 분석해주고, 어려운 단어를 쉽게 풀어 설명해줌.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;제일 관심이 갔던건 마지막 발표였던 앤톡!&lt;br /&gt;처음 서비스를 만들었던 목적이 개미투자자들을 위한 접근도 좋았고, 재무재표를 보는게 얼마나 어려운지 나 역시 접해보았기 때문에 공감이 갔다. 현재 B2B형태여서 바로 사용해볼 수 없어 아쉬웠다.&lt;br /&gt;그리고 금융계에서 요 서비스를 고객에게 제공될 때 좋아할지 의문이 들었다. 금융계는 억지로 어려운 단어 만들어내잖아. 소비자가 모르길 바라잖아.&lt;br /&gt;또, 앤톡 서비스 공급에 있어서 현재는 데이터 수집+분석하는 부분에서 시간이 많이 들기 때문에 비교적 공수가 덜 들어가는 디자인 부분은 외주에 맡기고 계신다고한다. 외주를 제법 많이 맡기기 때문에 그들끼리도 경쟁이 붙어서 금액인하가 되서 좋다는 매우 솔직한 말씀을 하셨음. 근데 길게 봤을 때 좋은건지는 나는 잘 모르겠다. 디자인 통일성도 떨어질테고 앤톡에 대한 이해도가 높은 디자이너가 작업을 하는게 결과적으로도 좋을텐데 라는 생각을 했다. 사람들 생각은 원래 다 다른거니까!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;04-공감했던-띵언&quot;&gt;04. 공감했던 띵언&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/YcdtOdM.png&quot; alt=&quot;와 내 말이...!&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;요즘에 진짜 무기력한 삶을 보내고 있었는데 저 문구 보고 무릎 딱-!쳤다.&lt;br /&gt;포인트는 ‘없당!’이야. 해맑아야함. 헤헤.&lt;br /&gt;날씨가 더워서 그런것일꺼야 헤헤.&lt;br /&gt;요즘은 책 읽고 싶단 생각도 안들고, 말을 하고 싶은 마음도 사라지고.(이건 거의 내 default값인듯)&lt;br /&gt;깃헙블로그 글도 너무 오랫만에 써서 처음 만들 때 그 의욕들은 어디갔나 싶고.&lt;br /&gt;무엇보다 이런 주절주절 생각이 매우 많아졌다는것이다. 머리가 터질듯함.&lt;br /&gt;그래도 저 ‘없당!’체로 최대한 해맑게 2018년 여름이랑 잘 지내볼 계획이다. 화이팅&lt;/p&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Thu, 02 Aug 2018 15:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2018/08/02/inspiration02/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/02/inspiration02/</guid>
+        
+        <category>weekly</category>
+        
+        <category>inspiration</category>
+        
+        <category>desgin</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>7월 4째주inspiration</title>
+        <description>&lt;h4 id=&quot;이런것도-해보지-뭐지난주부터-오늘까지-인상깊었던-내용을-정리해봅니다&quot;&gt;이런것도 해보지 뭐.&lt;br /&gt;지난주부터 오늘까지 인상깊었던 내용을 정리해봅니다.&lt;br /&gt;&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;01-제플린-드디어-윈도우-버전을-출시했다관련글--httpsblogzepliniozeplin-adobe-xd-cc-integration-now-on-windows-78cfa704a3ab&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://blog.zeplin.io/zeplin-adobe-xd-cc-integration-now-on-windows-78cfa704a3ab&quot;&gt;01. 제플린, 드디어 윈도우 버전을 출시했다!&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;(관련글 : &lt;a href=&quot;https://blog.zeplin.io/zeplin-adobe-xd-cc-integration-now-on-windows-78cfa704a3ab&quot;&gt;https://blog.zeplin.io/zeplin-adobe-xd-cc-integration-now-on-windows-78cfa704a3ab&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*TG6a1Z-oWvzQFiIQAXVFHg@2x.png&quot; alt=&quot;윈도우 버전 개발하느라 고생해쩌&quot; width=&quot;80%&quot; class=&quot;alignleft&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;스케치와 제플린을 접하고서 ‘이보다 완벽한 조합은 없어!’를 외치며 작업을 했었다.&lt;br /&gt;그런데 윈도우 쓰시는 개발자님은 불편했을꺼야.&lt;br /&gt;제플린이 맥os만 지원하다보니 웹으로 접속해서 이미지파일을 다운로드하거나 가이드를 볼 수 있었다. &lt;br /&gt;이제 윈도우 사용자들도 제플린을 프로그램으로 설치 및 사용이 가능하다.&lt;br /&gt;Adobe Photoshop도 그렇고 XD에서도 제플린으로 내보내기 기능이 가능하다보니 윈도우 사용자들을 위해 비교적 빠르게 런칭되었다.(나는 더 늦게 나올줄 알았음)&lt;br /&gt;그리고 Adobe XD가 무섭게 사용자들을 공략중인데, 사용료를 아예 무료로 바꿔버리길래 오호 하고 다운받아 써봤으나 나는 아직 스케치가 더 편하다고하다. 스케치 힘내라 얍.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;02-드롭박스의-새로운-서비스-페이퍼&quot;&gt;&lt;a href=&quot;https://www.dropbox.com/ko/paper&quot;&gt;02. 드롭박스의 새로운 서비스, 페이퍼&lt;/a&gt;&lt;br /&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/90/44/6c/90446cbf-346b-273d-4aec-ddb700e4f8b4/mzl.bsngnpcy.png/230x0w.jpg&quot; alt=&quot;Dropbox Paper&quot; /&gt;{.alignleft}&lt;/p&gt;
+
+&lt;p&gt;드롭박스에서 신기한 서비스가 나왔다. 이름에 충실한 문서작성 도구다.&lt;br /&gt;기본적인 문서작성 기능에 프로젝트를 함께 진행하는 사람들과 협업할 수 있는 기능이 추가되어있다.&lt;br /&gt;PC와 모바일앱이 동기화되고 깔끔한 디자인이 돋보인다. &lt;br /&gt;그러나 맥 기본 프로그램인 Pages를 icloud 동기화해서 잘 사용중이라서 그렇게 크게 매력적으로 느껴지진 않았다.&lt;br /&gt;또, 드롭박스는 이미지(덕질, 디자인참고자료 등)저장 용도로, 구글드라이브를 업무용으로 쓰고 있기 때문에 드롭박스에서 일 관련 문서를 둔다는것 자체가 너무 어색하다. 허허😢&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;03-깔끔한-마크다운-작성-typora&quot;&gt;&lt;a href=&quot;https://typora.io/&quot;&gt;03. 깔끔한 마크다운 작성, Typora&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/files/typora.gif&quot; alt=&quot;깔끔하고 너무 예뻐!&quot; width=&quot;90%&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;원래 하루패드를 사용했었다.&lt;br /&gt;마크다운 초보자도 사용할 수 있게끔 문법이 잘 나와있고 실제로 웹에서 어떻게 보이는지도 보여줘서 편하다.&lt;br /&gt;근데 너무 안 예쁨.&lt;br /&gt;그래서 검색하다가 Typora 발견하고 써봤는데 마크다운 문법을 어느정도 알고 있어야한다는 점이 있지만&lt;br /&gt;타자기모드(내가 쓰고있는 부분을 제외한 나머지 부분은 불투명하게 보임)도 지원하고 글 쓰기에도 깔끔했다.&lt;br /&gt;물론 계속 구글링을 해야하지만 그렇게 적다보니 마크다운 문법이 이제 어느정도 친숙해졌다.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;04-츠타야서점-그리고-변화하는-우리의-서점들&quot;&gt;04. 츠타야서점, 그리고 변화하는 우리의 서점들&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://image.aladin.co.kr/product/12306/85/cover/k022531151_1.jpg&quot; alt=&quot;취향을 설계하는 곳, 츠타야&quot; /&gt;{.alignleft}&lt;/p&gt;
+
+&lt;p&gt;주말에 서점에서 잠깐 읽었던 책, ‘취향을 설계하는 곳, 츠타야’&lt;br /&gt;취향을 설계한다는 것이 매우 재미있어서 집어들었던 책은 매우 유명한 일본의 서점 츠타야를 다룬 이야기였다.&lt;br /&gt;처음 음반가게로 시작할 때, 건물주는 음식점이 아니면 입점 할 수 없다는 의견을 표했다고 한다.&lt;br /&gt;그래서 엄마와 누나가 요리를 제공하는 음반가게로 시작했다.&lt;br /&gt;어쩌면 이런 시작이 지금의 츠타야, CCC=컬쳐 컨비니언스 클럽을 만든게 아닐까.&lt;br /&gt;방사능 문제로 일본을 가지 않기로 마음먹었지만, 츠타야는 한번 가보고 싶도록 만들었다.&lt;br /&gt;이와 별개로 책은 재미없었다. (문법이나 표현이 영 잘 읽히지 않았음)&lt;br /&gt;츠타야처럼 요즘 서점들도 매우 매력적으로 변하고있다. 물론 대형서점의 이야기.(동네서점은 몇몇 지역한정이야기)&lt;br /&gt;&lt;img src=&quot;http://image.kyobobook.co.kr/ink/images/storeinfo/photo/store_68_3.jpg&quot; alt=&quot;요즘 자주가는 교보문고 가든파이브 바로드림센터&quot; /&gt;&lt;br /&gt;예전 대형서점들은 테이블이나 의자를 충분히 제공하지 않아서, 많은 사람들이 바닥에 앉아 책을 읽곤 했다.&lt;br /&gt;물론 그게 멋져보였지만 절대 편하지않았다. 그러나 최근 대형서점들은 고객들에게 충분히 읽을 공간을 제공하고 있다.&lt;br /&gt;도서 검색을 위한 컴퓨터는 세로로 긴 피봇모니터를 사용하여 검색결과를 적은 스크롤로 최대의 검색결과를 볼 수 있도록 하였다. 투박하게 놓여있던 도서위치 출력 프린터는 모습을 숨기고 출력물만 받아갈 수 있도록 센스있게 처리했다.&lt;br /&gt;높은 책장들의 중간부분은 길게 빼어 고객이 짤막하게 책을 읽을 수 있는 책상이 되기도 하고 잠시 물건을 놓는 자리도 된다.&lt;br /&gt;이처럼 갈수록 센스있어지는 서점들의 변신으로 인터넷서점보다 실제 서점으로 발길을 옮기는 경우가 잦아지고 있다.&lt;br /&gt;책을 읽을 수 있는 환경은 좋아지는데 책은 점점 사람들에게 잊혀지는 쓸쓸한 기분이다.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;05-김봉진의-책읽기&quot;&gt;05. 김봉진의 책읽기&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://image.kyobobook.co.kr/images/book/xlarge/302/x9791187289302.jpg&quot; alt=&quot;책 잘 읽는 방법, 폼나게 재미나게 티나게 읽기&quot; class=&quot;alignleft&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;저자소개에 ‘부업으로 우아한형제들을 창업하여 배달의민족을 만들고 있음’이라고 적어져있다. 부..부럽네요.&lt;br /&gt;책은 잠깐 읽어보았는데 재미있어서 살꼬야요.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;06-차트가-아닌-나를-위한-음악-서비스-vibe&quot;&gt;&lt;a href=&quot;https://vibe.naver.com/&quot;&gt;06. 차트가 아닌 나를 위한 음악 서비스, vibe&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ssl.pstatic.net/static/m/music/event/vibe/0617/img/img_phone.jpg&quot; alt=&quot;네이버의 새로운 음악 서비스, vibe&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;네이버가 새로운 뮤직서비스, vibe를 내놓았다. 직접 깔아서 해보았오요.&lt;br /&gt;내가 좋아하는 음악장르, 아티스트를 선택해준다. 그러면 알아서 믹스테잎을 만들어준다.&lt;br /&gt;최근 닐로, 숀이라는 아티스트들이 음원차트 1위를 하고 사재기 의혹을 받고 있다.&lt;br /&gt;사람들은 이런 사태들을 접하면서 차트음악에 대한 회의감을 느끼기 시작했고 나에게 맞는 음악을 추천해주는 AI음악 서비스를 사용하기 시작했다.&lt;br /&gt;많은 사람들이 사용하는 &lt;a href=&quot;https://www.apple.com/kr/music/&quot;&gt;애플뮤직&lt;/a&gt;, &lt;a href=&quot;https://www.spotify.com/int/why-not-available/&quot;&gt;스포티파이&lt;/a&gt; 등을 이용하고 있다.&lt;br /&gt;애플뮤직은 한달 7.99달러로 약 9,000원의 이용료를 낸다.&lt;br /&gt;반면에 스포티파이는 무료사용자도 광고를 보면 음악을 들을 수 있다. 프리미엄 요금제는 9.99달러로 약 12,000원이다.그러나 아직 한국 정식서비스를 제공하지않고 있다.&lt;br /&gt;네이버의 vibe의 화면이나 구성도가 스포티파이와 매우 닮았다. 스포티파이 한국 안오겄다. 서비스 이용료는 7.99로 애플뮤직과 동일하다.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 23 Jul 2018 18:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2018/07/23/inspiration01/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/23/inspiration01/</guid>
+        
+        <category>weekly</category>
+        
+        <category>inspiration</category>
+        
+        <category>desgin</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Github Meetup. (1/n)</title>
+        <description>&lt;p&gt;Date : 2017년 7월 4일 수요일&lt;br /&gt;Co-worker : yoon퍼블리셔님, im개발자님, seo개발자님&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;드디어 첫 Meetup!&lt;br /&gt;
+디자이너, 개발자, 퍼블리셔. 다양한 시각으로 각자 느낀점을 가볍게 애기해보기로 했다.&lt;br /&gt;
+글을 작성하다가 날아가서(멘탈 털림) 다른 분들의 황금같은 의견이 기억이 안난다. ㅠㅠ&lt;br /&gt;
+그래서 내가 느낀점 위주로 정리해본다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;-디자이너의-눈물나는-github-pages-도전기--&quot;&gt;[ 디자이너의 눈물나는 Github Pages 도전기 😱 ]&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;기본적으로 ‘겁’이 기본값인 사람&lt;/strong&gt;&lt;br /&gt;
+내가 먼저 접했는데 제일 진도가 느리고 제일 헤맸다. 비전공자니까 당연해, 괜찮아.&lt;br /&gt;어떤 우여곡절을 겪었는지는 &lt;strong&gt;&lt;a href=&quot;https://eternalglee.github.io/2018/07/10/start_github/&quot;&gt;지난번 글&lt;/a&gt;&lt;/strong&gt;에서 언급했으니 넘어가자.&lt;br /&gt;내가 2주걸려도 해결 못한 문제를 개발자님이 2시간만에 파악하고 방법 알랴줌.  찬양하라 갓개발자여.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;잘 만들어진걸 파헤치며 배우자&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;a href=&quot;https://jekyllthemes.org/&quot;&gt;지킬테마사이트&lt;/a&gt;&lt;/strong&gt; 에서 수 많은 테마를 적용해보았으나,&lt;br /&gt;마음에 들지 않는건 둘째치고 짠-하고 한 번에 적용되는 경우가 적었다. 그래서 꼼수를 썼지.&lt;br /&gt;카카오톡 기술블로그를 통째로 Fork해왔다.&lt;br /&gt;다운받아 실제 사이트와 비교해가며 어떻게 구성되었는지 확인하니 이해가 훨씬 쉬웠다.&lt;br /&gt;뭐가 뭔지 잘 모르겠다면, 잘 만들어진 깃헙블로그 페이지를 통째로 Fork해 비교해보길 바란다.&lt;br /&gt;그리고 카카오기술블로그의 &lt;strong&gt;&lt;a href=&quot;https://github.com/kakao/kakao.github.io/blob/master/README.md&quot;&gt;README 파일&lt;/a&gt;&lt;/strong&gt;을 정독했다. 글, 작성자 등록을 어떻게하는지 상세하게 나와있다.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/files/config-edit.png&quot; alt=&quot;기초가 되는 config파일 수정하기&quot; /&gt;&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;_config.yml 파일 수정.&lt;/strong&gt;&lt;br /&gt;블로그 정보를 내 정보로 교체해준다.&lt;br /&gt;타이틀이나 깃헙 정보등을 수정했고, 나머지 모르는 부분들은 그냥 패스.&lt;br /&gt;config파일은 간단해서 그냥 깃헙 사이트에서 수정했다.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;글 작성자 정보 등록&lt;/strong&gt;&lt;br /&gt;authors폴더에 내 이름으로 된 md파일을 생성해준다. 아래와 같이 정보를 입력해준다.&lt;/p&gt;
+
+        &lt;blockquote&gt;
+          &lt;p&gt;&lt;strong&gt;name: Glee&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;title: 김지선&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;image: /files/authors/Glee.jpg&lt;/strong&gt;&lt;br /&gt;이미지는 해당 폴더에 내가 사용하고자하는 프로필 이미지를 등록했다.&lt;/p&gt;
+
+        &lt;/blockquote&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;기타 이미지 변경&lt;/strong&gt;&lt;br /&gt;assets &amp;gt; images 폴더 안에 블로그를 이루고있는 이미지 요소들이 모여있다.&lt;br /&gt;커버이미지나 푸터에 SNS정보에 들어가는 아이콘들을 수정해줬다.&lt;br /&gt;카카오는 모바일과 PC용 이미지를 따로 구분해줬다.&lt;br /&gt;모바일 파일명을 보니 스케치로 디자인하시고 후에 적용하신 느낌이 났다.&lt;br /&gt;나도.. 나도 나중에 직접 디자인해서 처음부터 블로그 만들어보고 싶다.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;글 작성&lt;/strong&gt;&lt;br /&gt;글 작성은 _posts 폴더 안에 있는 글 들중 하나를 복사해서 수정해서 적용했다.&lt;br /&gt;작성자 정보도 내 정보로 교체하니 사이트에서 내 프로필 이미지가 뜨는게 신기했다.&lt;br /&gt;아직 마크다운 형식으로 적는게 어색하지만 가볍게 틈틈히 적기엔 또 괜찮네.&lt;br /&gt;원래 글쓸 때 환경에 예민한 편인데, 나름 잘 적응하고 있는 듯하다.&lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;/files/write-in-pages.png&quot; alt=&quot;예민한 사람의 평소 글쓰기 환경&quot; width=&quot;90%&quot; /&gt;&lt;br /&gt;pages어플에서 내 맘에 드는 폰트로 작성해야 기분이 좋거든요.&lt;br /&gt;그리고 &lt;del&gt;&lt;strong&gt;&lt;a href=&quot;http://pad.haroopress.com/page.html&quot;&gt;하루패드 &lt;/a&gt;&lt;/strong&gt;&lt;/del&gt; &lt;strong&gt;&lt;a href=&quot;https://www.typora.io/&quot;&gt;Typora&lt;/a&gt;&lt;/strong&gt;를 사용해서 마크다운문법과 친해지려고 무진장 애쓰고 있다.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;웹폰트 적용&lt;/strong&gt;&lt;br /&gt;카카오 기술블로그에 웹폰트가 이미 적용되어있어서 내가 적용해보고싶었던 폰트로 바꿔봤다.&lt;br /&gt;assets &amp;gt; fonts 폴더 안에 폴더들을 지우고 내가 쓰고 싶어했던 &lt;strong&gt;&lt;a href=&quot;http://font.iropke.com/batang/&quot;&gt;이롭게&lt;/a&gt;&lt;/strong&gt; 폰트를 적용했다.&lt;br /&gt;고딕체보다 요즘은 명조체가 말하는 느낌이 전달되서 더 좋다.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/files/my-terminal.gif&quot; alt=&quot;터미널이랑 칭구칭긔&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;외울때까지 무한 반복&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;맥북을 3~4년 가까이 사용해오면서 터미널을 사용해본 적이 없다.&lt;br /&gt;일단 화면이 무서워. 어렸을 때 컴퓨터 고장나면 뜨던 화면들이랑 너무 닮았어.&lt;br /&gt;근데 Github을 하면서 터미널 사용을 피할 수 없었다.&lt;br /&gt;왜냐면 설명해놓은 블로그들도 그렇고 개발자분들도 다 터미널을 이용해서 가르쳐주셨기 때문이지.&lt;br /&gt;그래서 몇가지 가르쳐주신 터미널 명령어들을 반복해서 외울때까지 사용해봤다.&lt;br /&gt;파일 하나 수정하고 터미널 열어서 명령어쓰고 또 파일 수정해서 터미널 명령어 입력하고. &lt;br /&gt;이걸 한 50번정도 반복하면 자동으로 외워진다. 역시 머리가 나쁘면 몸이 고생이지&lt;br /&gt;내가 외운 터미널 명령어 자랑 한번 해보자. 데헷 :D&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;##### “터미널 열고 깃헙폴더로 이동하자!”&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;u&gt;cd Documents &amp;gt; cd eternaglee.github.io&lt;/u&gt;&lt;br /&gt;(상위폴더부터 내가 가려는 폴더까지 순차적으로 이동)&lt;br /&gt;cd가 아마 change Directory겠지?&lt;br /&gt;무튼 폴더명 너무 기니까 몇글자만 적어주고 tab키 누르면 자동으로 불러와준다. 똑똑해.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;##### “업데이트 할 파일이 있나 체크해줘”&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;u&gt;git status&lt;/u&gt;&lt;br /&gt;수정한 내용이 있다면 내역들이 빨간색으로 뜬다.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;##### “그 파일들 커밋해줘”&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;u&gt;git commit -m &quot;업데이트 내용 간략 설명&quot;&lt;/u&gt; &lt;br /&gt;커밋 후 다시 git status명령을 입력하면 아까 빨간색으로 떴던 파일명이 초록색으로 뜬다.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;##### “오 이제 깃헙블로그에 적용해줄래?”&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;u&gt;git push origin master&lt;/u&gt;&lt;br /&gt;업로드 퍼센트가 쫘르르 올라가면 성공!&lt;br /&gt;error가 많이뜨면 나는 push 뒤에 -f를 붙여서 강제적으로 업로드 해버린다.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;그런데 최근에 느낀건데 굳이 터미널로 안해도 될것같다.(좌절)&lt;br /&gt;주로 글 적을 용도라, 글을 적고서 해당 md파일을 github사이트에서 바로 업로드해줘도 된다.&lt;br /&gt;어째 이게 적용되는 시간이 빠른거 같기도하고, 잦은 수정이 아니면 굳이 터미널 켤 필요 없다.&lt;br /&gt;다만 터미널이랑 친해지고 싶거나 잦은 수정이 발생할 경우에는 터미널 사용도 추천.&lt;br /&gt;나만해도 깃헙하면서 터미널에 명령어 넣는게 한결 자연스러워졌고,&lt;br /&gt;이거해! 라고 하면 명령하면 터미널이 바로 대답해주니까 귀여움!&lt;/p&gt;
+
+&lt;p&gt;​&lt;/p&gt;
+
+&lt;p&gt;​  &lt;br /&gt;
+  &lt;strong&gt;다음주에 해보고 싶은 것&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;tags영역 공부.&lt;br /&gt;몇번 건들여봤는데 자꾸 에러가나서 좀 더 깊이 알아봐야할 것 같다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;댓글기능 추가하기&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;글 몇개 더 적어보기&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;포트폴리오 페이지를 위한 갤러리기능 자료조사&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 16 Jul 2018 12:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2018/07/16/meetup-for-github_01/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/16/meetup-for-github_01/</guid>
+        
+        <category>github</category>
+        
+        <category>Meetup</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>스타뜨 깃헙</title>
+        <description>&lt;h3 id=&quot;제가-github-pages로-사이트를-만들어보려구요-feat디자이너&quot;&gt;제가 Github pages로 사이트를 만들어보려구요. (feat.디자이너)&lt;/h3&gt;
+&lt;p&gt;(글 한번 날려먹어서 약 5일동안 멘탈 정리 후, 다시 적어봄)&lt;/p&gt;
+
+&lt;h2 id=&quot;1-왜-github-pages로-만들고자했는가&quot;&gt;1. 왜 github pages로 만들고자했는가.&lt;/h2&gt;
+&lt;p&gt;진행중이던 다수의 프로젝트들이 마무리 단계에 들어섰다.&lt;br /&gt;
+다른 프로젝트에 들어가기 전, 팀원들이 지금 생각하고 했던 것들을 글로 남겨두면 좋을 것 같단 생각을 했다.&lt;br /&gt;
+잠깐 머릿속을 스치는 생각들로 글로 남기면 그것은 온전히 우리의 것이 되니까.&lt;br /&gt;
+그래서 기업블로그 자료를 조사하다 github pages로 만들어진 사이트들을 보게 되었다. 그 중에서도 인상깊었던 몇가지 블로그들을 소개하고 넘어가자.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;참고하기 좋은 기업블로그들&lt;/li&gt;
+  &lt;li&gt;
+    &lt;dl&gt;
+      &lt;dt&gt;&lt;a href=&quot;http://www.ridicorp.com/blog/&quot;&gt;리디북스 블로그&lt;/a&gt;&lt;/dt&gt;
+      &lt;dd&gt;다루는 영역이 다양하다. 보통 기술블로그에서 많이 보이는 개발적인 영역부터 디자인영역까지 세분화되어있다.&lt;/dd&gt;
+      &lt;dd&gt;프레젠테이션 공유 사이트인 http://speakerdeck.com를 사용하여 기획 문서들을 공유하고있다.&lt;/dd&gt;
+      &lt;dd&gt;리디북스 이지혜디자이너의 github blog(http://jihyeleee.com/)도 추천한다. 나는 이분이 나왔던 &lt;strong&gt;[팟캐스트]&lt;/strong&gt;(http://pod.ssenhosting.com/rss/dspectrum/designtable.xml)를 통해 github에 대한 존재를 처음 알게되었다.&lt;/dd&gt;
+    &lt;/dl&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;dl&gt;
+      &lt;dt&gt;&lt;a href=&quot;https://spoqa.github.io/&quot;&gt;도도포인트 스포카 블로그&lt;/a&gt;&lt;/dt&gt;
+      &lt;dd&gt;깔끔한 기업블로그의 정석.&lt;/dd&gt;
+      &lt;dd&gt;디자이너로서 읽어도 모르는 글이 가득이지만, 그럼에도 그들의 성장과정을 엿볼 수 있다.&lt;/dd&gt;
+    &lt;/dl&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;dl&gt;
+      &lt;dt&gt;&lt;a href=&quot;http://woowabros.github.io/&quot;&gt;배달의민족 기술블로그&lt;/a&gt;&lt;/dt&gt;
+      &lt;dd&gt;홈페이지처럼 카테고리를 나눠놔서 사용자가 쉽게 원하는 글을 찾을 수 있도록 한 배려가 돋보인다.&lt;/dd&gt;
+      &lt;dd&gt;마찬가지로 읽어도 모르는 글이 가득이지만, 신입사원 인터뷰나 경험담을 솔직하게 올린 글들을 흥미롭게 읽었다.&lt;/dd&gt;
+    &lt;/dl&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;dl&gt;
+      &lt;dt&gt;&lt;a href=&quot;http://tech.kakao.com/&quot;&gt;카카오 기술블로그&lt;/a&gt;&lt;/dt&gt;
+      &lt;dd&gt;빠지면 서운한 카카오 블로그. 가장 마음에 드는 화면구성이었다. 웹폰트도 카카오전용서체를 사용했다.&lt;/dd&gt;
+      &lt;dd&gt;다른 블로그들과는 다르게 검색영역이 있고 푸터도 깔끔하게 자리하고있다.&lt;/dd&gt;
+      &lt;dd&gt;공부를 위해 해당 레파지토리를 fork해서 다운 받아 구성요소를 꼼꼼히 체크해볼 수 있어 좋았다.&lt;/dd&gt;
+    &lt;/dl&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2-왜-meetup을-하게-되었는가&quot;&gt;2. 왜 Meetup을 하게 되었는가.&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;&amp;quot;https://scontent.cdninstagram.com/vp/902d2fe6520718b126d0ad725d10c4da/5BCBEB2F/t51.2885-15/sh0.08/e35/s640x640/34437787_464043187353301_6846895902456545280_n.jpg?efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV9pZyJ9&amp;quot; width=&amp;quot;40%&amp;quot;&quot; alt=&quot;죽을것같아요&quot; /&gt;&lt;br /&gt;
+물론 나 혼자 해봤다. 거의 2주정도 죽을 쒔다.&lt;br /&gt;
+디자이너분들 중에서도 github으로 블로그를 시도한 분들이 많아 그분들의 이야기를 먼저 읽었다. 정독했다.&lt;br /&gt;
+어렵고 많은 좌절이 기다리고 있을것이라고 했다. 그래서 준비과정이 많이 필요하다고 했다.&lt;br /&gt;
+그래서 동일하게 따라했다. 하지만 페이지는 뜨지 않았다.&lt;br /&gt;
+친하지도 않은 터미널에 루비를 깔고 잼을 깔고 지킬을 깔았지만 그들은 엇갈린 태엽처럼 서로 맞물리지않았다.&lt;br /&gt;
+깊은 밀림 속을 나 혼자 해메고 있는 느낌, 검색하면 검색할수록 숲의 깊은 곳으로 더 빨려가는 기분이었다.&lt;br /&gt;
+그렇게 2주를 헤매고 Dong개발자님께 SOS를 요청했다. 그런데 그 분은 다같이 스터디를 하면 어떨까요?라고 대답하셨다.&lt;br /&gt;
+왠지 이상한 답을 받은 기분이었지만 뭐 어때. 나 혼자 헤매는 것보다 같이 헤매는게 덜 외롭겠지.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-그래서-어떻게-깔았나&quot;&gt;3. 그래서 어떻게 깔았나.&lt;/h2&gt;
+&lt;p&gt;의외로 답은 간단했다. 물론 그 간단한 답 내가 못찾았다.&lt;br /&gt;
+다른 개발자님께도 제가 이런걸 하고있는데여~ 어떤거같아여~ 라고 여쭤봤는데 개발자님 그 다음날 답 들고 오심.&lt;br /&gt;
+딱봐도 2시간 정도 보시고 바로 파악하신 느낌. 난 2주 걸려도 해결 못했는데. 허허허&lt;br /&gt;
+개발자님이 말씀해주신 방법은, 아주 간단한 방법이다.&lt;br /&gt;
+터미널 켜고 루비 깔고 지킬깔고 이렇게 터미널로 명령어 칠 필요가 없다는 것.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;지킬 테마 사이트&lt;/a&gt;&lt;/strong&gt; 에 들어간 후 원하는 테마를 고른다.&lt;/li&gt;
+  &lt;li&gt;해당 테마의 github 사이트로 이동한다.&lt;/li&gt;
+  &lt;li&gt;fork버튼을 눌러 내 github으로 가져온다.&lt;/li&gt;
+  &lt;li&gt;내 github으로 오면 방금 가져온 테마명으로 레파지토리가 생성되어있다.&lt;/li&gt;
+  &lt;li&gt;그 레파지토리의 이름을 내 계정이름을 넣어 변경해준다. (ex. theme.github.io &amp;gt; userid.github.io)&lt;/li&gt;
+  &lt;li&gt;해당 레파지토리에 있는 초록색 버튼 ‘clone or download’버튼을 눌러 주소를 복사한다.&lt;br /&gt;clone은 터미널로 복사해오라는 명령을 할 때 내 깃헙주소를 복사해줌.&lt;br /&gt;download는 zip파일로 내 깃헙을 다운 받을 수 있음&lt;br /&gt;*여기서 로컬과 서버에서 버전차이가 발생할 텐데, 서버를 기준으로 업데이트 치는 방법을임개발자님이 알려주시기로함.&lt;/li&gt;
+  &lt;li&gt;터미널을 열어 다운받을 디렉토리로 이동 후, git clone 아까 복사한 주소 를 넣어 다운받아준다.&lt;/li&gt;
+  &lt;li&gt;테마에 쓰인 소스를 내가 원하는대로 수정해주고 터미널 명령어를 입력해 다시 git 서버로 보내준다.&lt;/li&gt;
+  &lt;li&gt;git status를 입력하여 해당 폴더에 변경된 내역이 있는지 확인한다.&lt;/li&gt;
+  &lt;li&gt;git commit -m “” 입력하고 ““안에 수정내용을 적는다.&lt;/li&gt;
+  &lt;li&gt;git status를 한번 더 입력하여 커밋이 잘되었는지 확인한다.&lt;/li&gt;
+  &lt;li&gt;git push origin master를 입력하여 서버에 완전히 반영해준다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;나는 마지막 터미널 명령어를 자기전마다 한 스무번씩 반복했다. 무식하니까. 이렇게해야 명령어가 외워진다.&lt;br /&gt;
+덕분에 이제 터미널도 좀 다룰줄 알고 애가 뭘 말하는지 눈치도 까게되었다. 흐흐&lt;br /&gt;
+github에 대한 이야기는 여기서 마무리하고 다음 이야기는 첫 Meetup에 대한 이야기를 적어봐야겠다.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Jul 2018 02:40:00 +0900</pubDate>
+        <link>http://localhost:4000/2018/07/10/start_github/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/10/start_github/</guid>
+        
+        <category>github</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
