@@ -37,7 +37,7 @@ image: /files/covers/github-meetup-01.jpg
 
 
 ## 2. 왜 Meetup을 하게 되었는가.
-![정말 죽을뻔했다.]("https://pbs.twimg.com/media/CXugZgnUEAAyyr0.jpg" width="40%")  
+![정말 죽을뻔했다.](https://pbs.twimg.com/media/CXugZgnUEAAyyr0.jpg)
 물론 나 혼자 해봤다. 거의 2주정도 죽을 쒔다.  
 디자이너분들 중에서도 github으로 블로그를 시도한 분들이 많아 그분들의 이야기를 먼저 읽었다. 정독했다.  
 어렵고 많은 좌절이 기다리고 있을것이라고 했다. 그래서 준비과정이 많이 필요하다고 했다.  
