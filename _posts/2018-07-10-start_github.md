@@ -37,7 +37,7 @@ image: /files/covers/github-meetup-01.jpg
 
 
 ## 2. 왜 Meetup을 하게 되었는가.
-![죽을것같아요]("https://scontent.cdninstagram.com/vp/902d2fe6520718b126d0ad725d10c4da/5BCBEB2F/t51.2885-15/sh0.08/e35/s640x640/34437787_464043187353301_6846895902456545280_n.jpg?efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV9pZyJ9" width="40%")  
+![으헝헝헝 힘드져]("https://www.dropbox.com/s/8ky8ydk4481pado/csbdB.gif?dl=0" width="40%")  
 물론 나 혼자 해봤다. 거의 2주정도 죽을 쒔다.  
 디자이너분들 중에서도 github으로 블로그를 시도한 분들이 많아 그분들의 이야기를 먼저 읽었다. 정독했다.  
 어렵고 많은 좌절이 기다리고 있을것이라고 했다. 그래서 준비과정이 많이 필요하다고 했다.  
