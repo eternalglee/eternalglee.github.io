@@ -37,7 +37,7 @@ image: /files/covers/github-meetup-01.jpg
 
 
 ## 2. 왜 Meetup을 하게 되었는가.
-![으헝헝헝 힘드져]("http://dl.dropbox.com/s/8ky8ydk4481pado/csbdB.gif?" width="40%")  
+![으헝헝헝 힘드져]("http://dl.dropbox.com/s/8ky8ydk4481pado/csbdB.gif" width="40%")  
 물론 나 혼자 해봤다. 거의 2주정도 죽을 쒔다.  
 디자이너분들 중에서도 github으로 블로그를 시도한 분들이 많아 그분들의 이야기를 먼저 읽었다. 정독했다.  
 어렵고 많은 좌절이 기다리고 있을것이라고 했다. 그래서 준비과정이 많이 필요하다고 했다.  
@@ -54,6 +54,7 @@ image: /files/covers/github-meetup-01.jpg
 딱봐도 2시간 정도 보시고 바로 파악하신 느낌. 난 2주 걸려도 해결 못했는데. 허허허  
 개발자님이 말씀해주신 방법은, 아주 간단한 방법이다.  
 터미널 켜고 루비 깔고 지킬깔고 이렇게 터미널로 명령어 칠 필요가 없다는 것.  
+
 1. **[지킬 테마 사이트](http://jekyllthemes.org/)** 에 들어간 후 원하는 테마를 고른다.  
 2. 해당 테마의 github 사이트로 이동한다.  
 3. fork버튼을 눌러 내 github으로 가져온다.  
