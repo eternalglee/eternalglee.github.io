@@ -1,13 +1,13 @@
 ---
 layout: post
-title: '7월 4째주 inspiration'
+title: 'clipboard #1. (2018-07)'
 author: Glee
 date: 2018-07-23 18:00
-tags: [weekly,inspiration,desgin]
-image: /files/covers/inspiration.png
+tags: [weekly,clipboard,desgin]
+image: /files/covers/clipboard.png
 ---
 
-####	이런것도 해보지 뭐.<br />지난주부터 오늘까지 인상깊었던 내용을 정리해봅니다.<br />
+클립보드 #1<br>클립보드는 제가 일정 기간동안 인상깊었던 내용을 간략히 기록하는 공간입니다.
 
 ------
 
