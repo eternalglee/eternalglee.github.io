@@ -44,7 +44,7 @@ Framer는 깊게 파야할것 같아서 시간이 부족한 우리는 과감히 
 
 
 
-(/files/20181214_protopie_floting_test.mp4)
+![Floting Action](/files/20181214_protopie_floting_test.mp4)
 
 프로토파이를 토애
 
