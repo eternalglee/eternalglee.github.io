@@ -20,7 +20,7 @@ image: /files/covers/inspiration.png
 
 <br /><br /><br /> 
 
-1. **Prptopie** (https://www.protopie.io/)
+1. **Prptopie** ([https://www.protopie.io/](https://www.protopie.io/))
    - **난이도  : 쉬움 ~ 보통** <br />약 1년전에 도전했을 땐, 너무 어려웠고 1년이 지난 지금은 너무 쉬웠다. 뭐지? 업데이트가 잘된것인가.
    - **가격 : 99달러, 약 12만원**<br />업데이트 1년 지원이고 평생 사용 가능하면 저렴.. 저렴하다!
    - **장점** : 스케치와 연동, 사용방법이 쉽다.
@@ -45,7 +45,7 @@ image: /files/covers/inspiration.png
 
 
 
-2. **오리가미 **(http://origamikorea.cafe24.com/)<br />
+2. **오리가미 **([http://origamikorea.cafe24.com/](http://origamikorea.cafe24.com/))<br />
 
    - **난이도  : 어려움** <br />튜토리얼 없이 완성 불가능쓰...흐어. 처음해봐서 그런지 더욱 어려웠다.
 
