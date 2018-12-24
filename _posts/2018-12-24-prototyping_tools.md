@@ -20,7 +20,7 @@ image: /files/covers/inspiration.png
 
 <br /><br /><br /> 
 
-1. **Prptopie**
+1. **Prptopie** (https://www.protopie.io/)
    - **난이도  : 쉬움 ~ 보통** <br />약 1년전에 도전했을 땐, 너무 어려웠고 1년이 지난 지금은 너무 쉬웠다. 뭐지? 업데이트가 잘된것인가.
    - **가격 : 99달러, 약 12만원**<br />업데이트 1년 지원이고 평생 사용 가능하면 저렴.. 저렴하다!
    - **장점** : 스케치와 연동, 사용방법이 쉽다.
@@ -31,19 +31,27 @@ image: /files/covers/inspiration.png
 ![깔끔한 화면 구조](/files/protopie_view.png)
 스케치에서 작업한 화면을 프로토파이로 보내서 작업해 보았다.<br />스케치 작업 시, 나만의 레이어 정렬 규칙이 있기 마련이다.<br />이 상태 그대로 프로토파이로 보내게 되면 원하는 움직임이 어렵다.<br />레이어를 각각 살려주거나 프로토파이 움직임을 고려한 그룹 묶기 작업을 해서 보내줘야한다.<br />애시당초 저 화면은 프로토타이핑을 고려한 작업물이 아니었기 때문에 거쳐야하는 과정이었을 지도 모르겠다.<br />
 
+<br />
+
+<br />
+
+<video src="https://eternalglee.github.io/files/20181214_protopie_floting_test.mp4" width="360" height="640" autoplay>프로토파이를 이용해 Floting Action을 구현해봄! </video>
+
+실제로 프로토파이를 가지고 만들어봤다.<br />dribbble에서 보던 Floting Action을 직접 만들다니! <br />정말 기본중에 기본, 예제도 매우 많은 이 액션을 내가 직접 만들었다는거에 어찌나 뿌듯하던지...헷<br />그리고 다음 진도 못나감. 허허<br />
+
+<br />더 깊은 과정을 원한다면, Edwith에 올라와있는 '**[5일만에 배우는 프로토파이](https://www.edwith.org/cdc_protopie)**'강의를 배우는것도 좋은 방법이 될 것 같다.
 
 
 
 
-<video src="https://eternalglee.github.io/files/20181214_protopie_floting_test.mp4" width="360" height="640" autoplay></video>
+
+2. **오리가미 **(http://origamikorea.cafe24.com/)<br />
+
+   - **난이도  : 어려움** <br />튜토리얼 없이 완성 불가능쓰...흐어. 처음해봐서 그런지 더욱 어려웠다.
+
+   - **가격 : 무료**<br />개발자님 말씀으로는 페이스북은 무료로 제공하다가도 갑자기 서비스를 없애는 경우도 잦다고 함. 불안..
+   - **장점** : 가격……..????
+   - **단점** : 어렵..어렵다!
 
 
 
-프로토파이를 토애
-
-
-
-1. 오리가미
-   사용법 어려움
-
-   이용료 무료
