@@ -31,9 +31,9 @@ image: /files/covers/inspiration.png
 ![깔끔한 화면 구조](/files/protopie_view.png)
 스케치에서 작업한 화면을 프로토파이로 보내서 작업해 보았다.<br />스케치 작업 시, 나만의 레이어 정렬 규칙이 있기 마련이다. 이 상태 그대로 프로토파이로 보내게 되면 원하는 움직임이 어렵다.<br />레이어를 각각 살려주거나 프로토파이 움직임을 고려한 그룹 묶기 작업을 해서 보내줘야한다.<br />애시당초 저 화면은 프로토타이핑을 고려한 작업물이 아니었기 때문에 거쳐야하는 과정이었을 지도 모르겠다.
 
+<source src="https://eternalglee.github.io/files/20181214_protopie_floting_test.mp4" type="video/mp4">
 
 
-![Floting Action](/files/20181214_protopie_floting_test.mp4)
 
 프로토파이를 토애
 
