@@ -16,7 +16,7 @@ image: /files/covers/inspiration.png
 
 <br /><br /><br />
 
-![](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-1/p50x50/12366229_989027741143130_3327574197278623177_n.png?_nc_cat=104&_nc_ht=scontent-icn1-1.xx&oh=866abe90ea94bf3ca4c3661d2423e5e4&oe=5CA2F1DF){: width="100" height="100"}
+![](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-1/p50x50/12366229_989027741143130_3327574197278623177_n.png?_nc_cat=104&_nc_ht=scontent-icn1-1.xx&oh=866abe90ea94bf3ca4c3661d2423e5e4&oe=5CA2F1DF){: width="100%" height="100%"}
 
 1. **Prptopie** ([https://www.protopie.io/](https://www.protopie.io/))
    - **난이도  : 쉬움 ~ 보통** <br />약 1년전에 도전했을 땐, 너무 어려웠고 1년이 지난 지금은 너무 쉬웠다. 뭐지? 업데이트가 잘된것인가.
@@ -37,7 +37,7 @@ image: /files/covers/inspiration.png
 
 <br /><br /><br /><br />
 
-![](https://origami.design/public/images/bird-logo.png){: width="100" height="100"}
+![](https://origami.design/public/images/bird-logo.png){: width="100%" height="100%"}
 
 2. **오리가미 스튜디오**([http://origamikorea.cafe24.com/](http://origamikorea.cafe24.com/))<br />
    - **난이도  : 어려움** <br />튜토리얼 없이 완성 불가능쓰...흐어. 처음해봐서 그런지 더욱 어려웠다.
