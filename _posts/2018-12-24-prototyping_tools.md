@@ -37,21 +37,19 @@ image: /files/covers/inspiration.png
 
 <video src="https://eternalglee.github.io/files/20181214_protopie_floting_test.mp4" width="360" height="640" autoplay>프로토파이를 이용해 Floting Action을 구현해봄! </video>
 
-실제로 프로토파이를 가지고 만들어봤다.<br />dribbble에서 보던 Floting Action을 직접 만들다니! <br />정말 기본중에 기본, 예제도 매우 많은 이 액션을 내가 직접 만들었다는거에 어찌나 뿌듯하던지...헷<br />그리고 다음 진도 못나감. 허허<br />
+실제로 프로토파이를 가지고 만들어봤다.<br />dribbble에서 보던 Floting Action을 직접 만들다니! <br />정말 기본중에 기본, 예제도 매우 많은 이 액션을 내가 직접 만들었다는거에 어찌나 뿌듯하던지...헷<br />그리고 다음 진도 못나감. 허허<br /><br />더 깊은 과정을 원한다면, Edwith에 올라와있는 '**[5일만에 배우는 프로토파이](https://www.edwith.org/cdc_protopie)**'강의를 배우는것도 좋은 방법이 될 것 같다.
 
-<br />더 깊은 과정을 원한다면, Edwith에 올라와있는 '**[5일만에 배우는 프로토파이](https://www.edwith.org/cdc_protopie)**'강의를 배우는것도 좋은 방법이 될 것 같다.
+<br /><br /><br /><br />
 
-
-
-
-
-2. **오리가미 **([http://origamikorea.cafe24.com/](http://origamikorea.cafe24.com/))<br />
-
+2. **오리가미 스튜디오**([http://origamikorea.cafe24.com/](http://origamikorea.cafe24.com/))<br />
    - **난이도  : 어려움** <br />튜토리얼 없이 완성 불가능쓰...흐어. 처음해봐서 그런지 더욱 어려웠다.
 
    - **가격 : 무료**<br />개발자님 말씀으로는 페이스북은 무료로 제공하다가도 갑자기 서비스를 없애는 경우도 잦다고 함. 불안..
    - **장점** : 가격……..????
    - **단점** : 어렵..어렵다!
 
+<br />
 
+![](/files/origami-screen.png)<br />![이 간단한 tree를 만들기 위해 동영상 계속 돌려봤다](/files/origami-screen2.png)<br />오리가미 스튜디오의 화면 구조는 매우 간단하다.<br />테스트할 Device를 선택할 수 있고 Sketch 프로그램에서 요소를 복사-붙여넣기해서 가져올 수 있다.(노가다..)<br />공식 사이트에 다양한 예제 파일 및 활용법이 올라와 있으나 그럼에도 어렵게 느껴졌다.<br /><br /><br /><br />
 
+[http://origamikorea.cafe24.com/photo-zoom/](http://origamikorea.cafe24.com/photo-zoom/)<br />
