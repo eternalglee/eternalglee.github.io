@@ -49,7 +49,7 @@ image: /files/covers/inspiration.png
 
 <video src="https://eternalglee.github.io/files/origami_test.mp4" width="360" height="640" controls autoplay>오리가미 스튜디오를 이용해 Zoom Action을 구현해봄! </video>
 
-오리가미 스튜디오를 이용해 화면 줌-아웃을 구현해보았다.<br />공식 스튜디오에 올라와있는 **[포토줌 예제](http://origamikorea.cafe24.com/photo-zoom/)** 를 보고 따라 만들어보았는데, 어렵..어렵다.<br />A에서 순차적으로 B-C-D로 가는게 아니라, Z를 위해 A-C-D-B 이런식으로 만들어가는 느낌.<br />그래서 어렵다. 시나리오를 짜고 구현하기 위해 촬영, 편집, 후시녹음 해야하는데 머리로는 잘 알지만 실제로는 안되는것처럼.<br /><br /><br /><br /><br /><br /><br />
+오리가미 스튜디오를 이용해 화면 줌-아웃을 구현해보았다.<br />공식 스튜디오에 올라와있는 **[포토줌 예제](http://origamikorea.cafe24.com/photo-zoom/)** 를 보고 따라 만들어보았는데, 어렵..어렵다.<br />A에서 순차적으로 B-C-D로 가는게 아니라, Z를 위해 A-C-D-B 이런식으로 만들어가는 느낌.<br />그래서 어렵다. 시나리오를 짜고 구현하기 위해 촬영, 편집, 후시녹음 해야하는데 머리로는 잘 알지만 실제로는 안되는것처럼.<br /><br /><br /><br /><br /><br />
 
 #### **결론**
 
