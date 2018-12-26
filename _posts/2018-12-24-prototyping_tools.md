@@ -5,9 +5,6 @@ author: Glee
 date: 2018-12-24 19:24
 tags: [weekly,inspiration,Review]
 image: /files/covers/inspiration.png
-
-
-
 ---
 
 **Protopie와 Origami Studio를 사용해보았다.**
