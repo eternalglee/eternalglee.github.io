@@ -48,7 +48,11 @@ image: /files/covers/inspiration.png
 
 <br />
 
-![](/files/origami-screen.png)<br />![이 간단한 tree를 만들기 위해 동영상 계속 돌려봤다](/files/origami-screen2.png)<br />오리가미 스튜디오의 화면 구조는 매우 간단하다.<br />테스트할 Device를 선택할 수 있고 Sketch 프로그램에서 요소를 복사-붙여넣기해서 가져올 수 있다.(노가다..)<br />공식 사이트에 다양한 예제 파일 및 활용법이 올라와 있으나 그럼에도 어렵게 느껴졌다.<br /><br /><br /><br /><video src="https://eternalglee.github.io/files/origami_test.mp4" width="360" height="640" controls autoplay>오리가미 스튜디오를 이용해 Zoom Action을 구현해봄! </video>오리가미 스튜디오를 이용해 화면 줌-아웃을 구현해보았다.<br />공식 스튜디오에 올라와있는 **[포토줌 예제](http://origamikorea.cafe24.com/photo-zoom/)** 를 보고 따라 만들어보았는데, 어렵..어렵다.<br />A에서 순차적으로 B-C-D로 가는게 아니라, Z를 위해 A-C-D-B 이런식으로 만들어가는 느낌.<br />그래서 어렵다. 시나리오를 짜고 구현하기 위해 촬영, 편집, 후시녹음 해야하는데 머리로는 잘 알지만 실제로는 안되는것처럼.<br /><br /><br /><br /><br /><br /><br />
+![](/files/origami-screen.png)<br />![이 간단한 tree를 만들기 위해 동영상 계속 돌려봤다](/files/origami-screen2.png)<br />오리가미 스튜디오의 화면 구조는 매우 간단하다.<br />테스트할 Device를 선택할 수 있고 Sketch 프로그램에서 요소를 복사-붙여넣기해서 가져올 수 있다.(노가다..)<br />공식 사이트에 다양한 예제 파일 및 활용법이 올라와 있으나 그럼에도 어렵게 느껴졌다.<br /><br /><br /><br />
+
+<video src="https://eternalglee.github.io/files/origami_test.mp4" width="360" height="640" controls autoplay>오리가미 스튜디오를 이용해 Zoom Action을 구현해봄! </video>
+
+오리가미 스튜디오를 이용해 화면 줌-아웃을 구현해보았다.<br />공식 스튜디오에 올라와있는 **[포토줌 예제](http://origamikorea.cafe24.com/photo-zoom/)** 를 보고 따라 만들어보았는데, 어렵..어렵다.<br />A에서 순차적으로 B-C-D로 가는게 아니라, Z를 위해 A-C-D-B 이런식으로 만들어가는 느낌.<br />그래서 어렵다. 시나리오를 짜고 구현하기 위해 촬영, 편집, 후시녹음 해야하는데 머리로는 잘 알지만 실제로는 안되는것처럼.<br /><br /><br /><br /><br /><br /><br />
 
 #### **결론**
 
