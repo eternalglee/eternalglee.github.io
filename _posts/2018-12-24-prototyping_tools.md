@@ -37,7 +37,7 @@ image: /files/covers/inspiration.png
 
 <br /><br /><br /><br />
 
-![](https://origami.design/public/images/bird-logo.png){: width="100%" height="100%"}
+![](https://origami.design/public/images/bird-logo.png){width:65px; height:65px;}
 
 2. **오리가미 스튜디오**([http://origamikorea.cafe24.com/](http://origamikorea.cafe24.com/))<br />
    - **난이도  : 어려움** <br />튜토리얼 없이 완성 불가능쓰...흐어. 처음해봐서 그런지 더욱 어려웠다.
