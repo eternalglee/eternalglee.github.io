@@ -28,7 +28,7 @@ image: /files/covers/inspiration.png
 
 <br /><br />
 
-<video src="https://eternalglee.github.io/files/20181214_protopie_floting_test.mp4" width="360" height="640" controls autoplay>프로토파이를 이용해 Floting Action을 구현해봄! </video>
+<video src="https://eternalglee.github.io/files/20181214_protopie_floting_test.mp4" width="360" height="640" controls autoplay loop>프로토파이를 이용해 Floting Action을 구현해봄! </video>
 
 생각보다 간단하게 만들 수 있었다.<br />dribbble에서 보던 Floting Action을 직접 만들다니! <br />정말 기본중에 기본, 예제도 매우 많은 이 액션을 내가 직접 만들었다는거에 어찌나 뿌듯하던지...헷<br />(비전공자 친구한테 자랑 카톡 보냄, 친구 당황해함)<br /><br />더 깊은 과정을 원한다면, Edwith에 올라와있는 '**[5일만에 배우는 프로토파이](https://www.edwith.org/cdc_protopie)**'강의를 배우는것도 좋은 방법이 될 것 같다.
 
@@ -47,7 +47,7 @@ image: /files/covers/inspiration.png
 
 ![](/files/origami-screen.png)<br />![이 간단한 tree를 만들기 위해 동영상 계속 돌려봤다](/files/origami-screen2.png)<br />오리가미 스튜디오의 화면 구조는 매우 간단하다.<br />테스트할 Device를 선택할 수 있고 Sketch 프로그램에서 요소를 복사-붙여넣기해서 가져올 수 있다.(노가다..)<br />공식 사이트에 다양한 예제 파일 및 활용법이 올라와 있으나 그럼에도 어렵게 느껴졌다.<br /><br /><br /><br />
 
-<video src="https://eternalglee.github.io/files/origami_test.mp4" width="360" height="640" controls autoplay>오리가미 스튜디오를 이용해 Zoom Action을 구현해봄! </video>
+<video src="https://eternalglee.github.io/files/origami_test.mp4" width="360" height="640" controls autoplay loop>오리가미 스튜디오를 이용해 Zoom Action을 구현해봄! </video>
 
 오리가미 스튜디오를 이용해 화면 줌-아웃을 구현해보았다.<br />공식 스튜디오에 올라와있는 **[포토줌 예제](http://origamikorea.cafe24.com/photo-zoom/)** 를 보고 따라 만들어보았는데, 어렵..어렵다.<br />A에서 순차적으로 B-C-D로 가는게 아니라, Z를 위해 A-C-D-B 이런식으로 만들어가는 느낌.<br />그래서 어렵다. 시나리오를 짜고 구현하기 위해 촬영, 편집, 후시녹음 해야하는데 머리로는 잘 알지만 실제로는 안되는것처럼.<br /><br /><br /><br /><br /><br />
 
