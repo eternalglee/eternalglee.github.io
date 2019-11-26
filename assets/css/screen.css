@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Iropke Batang', serif;
+    font-family: 'SpoqaHanSans', serif;
     font-weight: 300; /* @@iolo 200 -> 300, 200 for retina only! */
     color: #505050;
     background-color: #fff;
@@ -18,7 +18,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Iropke Batang', serif;
+    font-family: 'SpoqaHanSans', serif;
     font-weight: 400;
     color: #1e1e1e;
 }
@@ -27,7 +27,7 @@ pre,
 code,
 tt,
 kbd {
-    font-family: 'Iropke Batang', serif;
+    font-family: 'SpoqaHanSans', serif;
     font-weight: 300;
 }
 
@@ -542,7 +542,7 @@ for small screen(<720px):
 #cover,
 #navbar,
 #footer {
-    font-family: 'Iropke Batang', serif !important;
+    font-family: 'SpoqaHanSans', serif !important;
 }
 
 /* list(loop) */
